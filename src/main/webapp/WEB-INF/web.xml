@@ -4,7 +4,7 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
-<!--
+<!-- 这个没什么用~~~
   <servlet>
     <servlet-name>ping</servlet-name>
     <servlet-class>Ping</servlet-class>
